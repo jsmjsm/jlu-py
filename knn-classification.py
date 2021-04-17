@@ -4,8 +4,7 @@ Author       : jsmjsm
 Github       : https://github.com/jsmjsm
 Date         : 2021-04-11 11:05:44
 LastEditors  : jsmjsm
-LastEditTime : 2021-04-17 21:06:44
-FilePath     : /jlu-py/classification.py
+LastEditTime : 2021-04-17 21:25:10
 '''
 from sklearn.model_selection import train_test_split
 import pandas as pd
